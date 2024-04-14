@@ -39,15 +39,24 @@
 			"path": "packs/lights-dnd5e.db",
 			"entity": "Macro",
 			"module": "df-architect",
-			"type": "pack"
-		},
+		        "visibility": "GAMEMASTER", // This makes the pack visible only to GMs
+ 		        "ownership": {
+		          "PLAYER": "NONE",
+ 		          "TRUSTED": "OBSERVER",
+		          "ASSISTANT": "OWNER",
+ 		          "GAMEMASTER": "OWNER"		},
 		{
 			"name": "lights-pf1e",
 			"label": "Light Templates: Pathfinder 1E",
 			"path": "packs/lights-pf1e.db",
 			"entity": "Macro",
 			"module": "df-architect",
-			"type": "pack"
+		        "visibility": "GAMEMASTER", // This makes the pack visible only to GMs
+ 		        "ownership": {
+		          "PLAYER": "NONE",
+ 		          "TRUSTED": "OBSERVER",
+		          "ASSISTANT": "OWNER",
+ 		          "GAMEMASTER": "OWNER"		},
 		},
 		{
 			"name": "lights-pf2e",
@@ -55,7 +64,12 @@
 			"path": "packs/lights-pf2e.db",
 			"entity": "Macro",
 			"module": "df-architect",
-			"type": "pack"
+		        "visibility": "GAMEMASTER", // This makes the pack visible only to GMs
+ 		        "ownership": {
+		          "PLAYER": "NONE",
+ 		          "TRUSTED": "OBSERVER",
+		          "ASSISTANT": "OWNER",
+ 		          "GAMEMASTER": "OWNER"		},
 		}
 	],
 	"bugs":		"https://github.com/flamewave000/dragonflagon-arch/issues/new/choose",
