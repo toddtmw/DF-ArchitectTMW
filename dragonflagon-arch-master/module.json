@@ -38,7 +38,7 @@
 			"label": "Light Templates: D&D5e",
 			"path": "packs/lights-dnd5e.db",
 			"entity": "Macro",
-			"module": "df-architect"
+			"module": "df-architect",
 			"type": "pack"
 		},
 		{
@@ -46,7 +46,7 @@
 			"label": "Light Templates: Pathfinder 1E",
 			"path": "packs/lights-pf1e.db",
 			"entity": "Macro",
-			"module": "df-architect"
+			"module": "df-architect",
 			"type": "pack"
 		},
 		{
@@ -54,7 +54,7 @@
 			"label": "Light Templates: Pathfinder 2E",
 			"path": "packs/lights-pf2e.db",
 			"entity": "Macro",
-			"module": "df-architect"
+			"module": "df-architect",
 			"type": "pack"
 		}
 	],
