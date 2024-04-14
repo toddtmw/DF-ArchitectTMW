@@ -70,7 +70,7 @@
 		          "PLAYER": "NONE",
  		          "TRUSTED": "OBSERVER",
 		          "ASSISTANT": "OWNER",
- 		          "GAMEMASTER": "OWNER"}		},
+ 		          "GAMEMASTER": "OWNER"}
 		}
 	],
 	"bugs":		"https://github.com/flamewave000/dragonflagon-arch/issues/new/choose",
