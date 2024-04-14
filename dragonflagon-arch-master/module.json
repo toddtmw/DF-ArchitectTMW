@@ -39,7 +39,7 @@
 			"path": "packs/lights-dnd5e.db",
 			"entity": "Macro",
 			"module": "df-architect",
-		        "visibility": "GAMEMASTER",
+		        "visibility": 4,
  		        "ownership": {
 		          "PLAYER": "NONE",
  		          "TRUSTED": "OBSERVER",
