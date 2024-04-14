@@ -39,7 +39,7 @@
 			"path": "packs/lights-dnd5e.db",
 			"entity": "Macro",
 			"module": "df-architect",
-		        "visibility": "GAMEMASTER", // This makes the pack visible only to GMs
+		        "visibility": "GAMEMASTER", 
  		        "ownership": {
 		          "PLAYER": "NONE",
  		          "TRUSTED": "OBSERVER",
@@ -52,7 +52,7 @@
 			"path": "packs/lights-pf1e.db",
 			"entity": "Macro",
 			"module": "df-architect",
-		        "visibility": "GAMEMASTER", // This makes the pack visible only to GMs
+		        "visibility": "GAMEMASTER", 
  		        "ownership": {
 		          "PLAYER": "NONE",
  		          "TRUSTED": "OBSERVER",
@@ -65,7 +65,7 @@
 			"path": "packs/lights-pf2e.db",
 			"entity": "Macro",
 			"module": "df-architect",
-		        "visibility": "GAMEMASTER", // This makes the pack visible only to GMs
+		        "visibility": "GAMEMASTER", 
  		        "ownership": {
 		          "PLAYER": "NONE",
  		          "TRUSTED": "OBSERVER",
