@@ -44,7 +44,8 @@
 		          "PLAYER": "NONE",
  		          "TRUSTED": "OBSERVER",
 		          "ASSISTANT": "OWNER",
- 		          "GAMEMASTER": "OWNER"		},
+ 		          "GAMEMASTER": "OWNER"}
+			},
 		{
 			"name": "lights-pf1e",
 			"label": "Light Templates: Pathfinder 1E",
@@ -56,7 +57,7 @@
 		          "PLAYER": "NONE",
  		          "TRUSTED": "OBSERVER",
 		          "ASSISTANT": "OWNER",
- 		          "GAMEMASTER": "OWNER"		},
+ 		          "GAMEMASTER": "OWNER"}
 		},
 		{
 			"name": "lights-pf2e",
@@ -69,7 +70,7 @@
 		          "PLAYER": "NONE",
  		          "TRUSTED": "OBSERVER",
 		          "ASSISTANT": "OWNER",
- 		          "GAMEMASTER": "OWNER"		},
+ 		          "GAMEMASTER": "OWNER"}		},
 		}
 	],
 	"bugs":		"https://github.com/flamewave000/dragonflagon-arch/issues/new/choose",
